@@ -39,7 +39,7 @@ After extracting the summaries using Gensim TextRank summarization, we measure t
 
 * Output (Sampled in Repository): https://github.com/apurva3010/IST664-NLP-Project-ExrtactiveTextSummarization/blob/master/output-sample.txt
 
-* Output (Full Processed Output on Entire Dataset): https://drive.google.com/open?id=107yxYPyZ0S6OgjcoXFHPjNlC491Kj_-u 
+* Output (Full Processed Output on Entire Dataset): https://drive.google.com/open?id=1_VDNRhG6erQ0i5qeTNPYIfzLx7A7wSLk
 
 ![alt text](https://raw.githubusercontent.com/apurva3010/IST664-NLP-Project-ExrtactiveTextSummarization/master/BLEU-1.png "BLEU-1 Score Distribution")
 ![alt text](https://raw.githubusercontent.com/apurva3010/IST664-NLP-Project-ExrtactiveTextSummarization/master/BLEU-4.png "BLEU-4 Score Distribution")
