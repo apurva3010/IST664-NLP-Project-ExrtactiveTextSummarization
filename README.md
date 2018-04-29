@@ -1,1 +1,1 @@
-# IST664-NLP-Project-ExrtactiveTextSummarizationPart
+# IST664-NLP-Project-ExrtactiveTextSummarization
