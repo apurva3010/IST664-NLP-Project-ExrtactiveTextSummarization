@@ -1,0 +1,99 @@
+Review: I have bought several of the Vitality canned dog food products and have found them all to be of good quality. The product looks more like a stew than a processed meat and it smells better. My Labrador is finicky and she appreciates this product better than  most.
+Gold Summary: Good Quality Dog Food
+Gensim Summary with Stopwords: my labrador is finicky and she appreciates this product better than most.
+Cumulative BLEU-1 Score with Stopwords: 0.1232876712328767
+Cumulative BLEU-4 Score with Stopwords: 0.5925566990494595
+Gensim Summary without Stopwords: product looks like stew processed meat smells better. labrador finicky appreciates product better.
+Cumulative BLEU-1 Score without Stopwords: 0.09183673469387757
+Cumulative BLEU-4 Score without Stopwords: 0.5504959249310237
+--
+Review: This is a confection that has been around a few centuries.  It is a light, pillowy citrus gelatin with nuts - in this case Filberts. And it is cut into tiny squares and then liberally coated with powdered sugar.  And it is a tiny mouthful of heaven.  Not too chewy, and very flavorful.  I highly recommend this yummy treat.  If you are familiar with the story of C.S. Lewis' "The Lion, The Witch, and The Wardrobe" - this is the treat that seduces Edmund into selling out his Brother and Sisters to the Witch.
+Gold Summary: "Delight" says it all
+Gensim Summary with Stopwords: and it is cut into tiny squares and then liberally coated with powdered sugar.
+Cumulative BLEU-1 Score with Stopwords: 0.1282051282051282
+Cumulative BLEU-4 Score with Stopwords: 0.5983790078367693
+Gensim Summary without Stopwords: lewis lion witch wardrobe treat seduces edmund selling brother sisters witch.
+Cumulative BLEU-1 Score without Stopwords: 0.11688311688311687
+Cumulative BLEU-4 Score without Stopwords: 0.5847065326973129
+--
+Review: If you are looking for the secret ingredient in Robitussin I believe I have found it.  I got this in addition to the Root Beer Extract I ordered (which was good) and made some cherry soda.  The flavor is very medicinal.
+Gold Summary: Cough Medicine
+Gensim Summary with Stopwords: if you are looking for the secret ingredient in robitussin i believe i have found it.
+Cumulative BLEU-1 Score with Stopwords: 0.11764705882352941
+Cumulative BLEU-4 Score with Stopwords: 0.5856596027429395
+Gensim Summary without Stopwords: looking secret ingredient robitussin believe found. flavor medicinal.
+Cumulative BLEU-1 Score without Stopwords: 0.13043478260869565
+Cumulative BLEU-4 Score without Stopwords: 0.6009638585283708
+--
+Review: Great taffy at a great price.  There was a wide assortment of yummy taffy.  Delivery was very quick.  If your a taffy lover, this is a deal.
+Gold Summary: Great taffy
+Gensim Summary with Stopwords: if your a taffy lover this is a deal.
+Cumulative BLEU-1 Score with Stopwords: 0.1891891891891892
+Cumulative BLEU-4 Score with Stopwords: 0.6595140909797456
+Gensim Summary without Stopwords: great taffy great price. wide assortment yummy taffy. taffy lover deal.
+Cumulative BLEU-1 Score without Stopwords: 0.09859154929577466
+Cumulative BLEU-4 Score without Stopwords: 0.5603507051939701
+--
+Review: I got a wild hair for taffy and ordered this five pound bag. The taffy was all very enjoyable with many flavors: watermelon, root beer, melon, peppermint, grape, etc. My only complaint is there was a bit too much red/black licorice-flavored pieces (just not my particular favorites). Between me, my kids, and my husband, this lasted only two weeks! I would recommend this brand of taffy -- it was a delightful treat.
+Gold Summary: Nice Taffy
+Gensim Summary with Stopwords: i would recommend this brand of taffy it was a delightful treat.
+Cumulative BLEU-1 Score with Stopwords: 0.10937500000000001
+Cumulative BLEU-4 Score with Stopwords: 0.5750816584478015
+Gensim Summary without Stopwords: got wild hair taffy ordered five pound bag. would recommend brand taffy delightful treat.
+Cumulative BLEU-1 Score without Stopwords: 0.07865168539325842
+Cumulative BLEU-4 Score without Stopwords: 0.5295744311003424
+--
+Review: This saltwater taffy had great flavors and was very soft and chewy.  Each candy was individually wrapped well.  None of the candies were stuck together, which did happen in the expensive version, Fralinger's.  Would highly recommend this candy!  I served it at a beach-themed party and everyone loved it!
+Gold Summary: Great!  Just as good as the expensive brands!
+Gensim Summary with Stopwords: would highly recommend this candy.
+Cumulative BLEU-1 Score with Stopwords: 0.38235294117647056
+Cumulative BLEU-4 Score with Stopwords: 0.7863503941633413
+Gensim Summary without Stopwords: none candies stuck together happen expensive version fralinger. would highly recommend candy.
+Cumulative BLEU-1 Score without Stopwords: 0.17204301075268819
+Cumulative BLEU-4 Score without Stopwords: 0.6440346868703347
+--
+Review: This taffy is so good.  It is very soft and chewy.  The flavors are amazing.  I would definitely recommend you buying it.  Very satisfying!!
+Gold Summary: Wonderful, tasty taffy
+Gensim Summary with Stopwords: it is very soft and chewy. i would definitely recommend you buying it.
+Cumulative BLEU-1 Score with Stopwords: 0.18571428571428572
+Cumulative BLEU-4 Score with Stopwords: 0.6564646248547346
+Gensim Summary without Stopwords: taffy good. soft chewy. flavors amazing. would definitely recommend buying. satisfying.
+Cumulative BLEU-1 Score without Stopwords: 0.14942528735632185
+Cumulative BLEU-4 Score without Stopwords: 0.62173601451302
+--
+Review: Right now I'm mostly just sprouting this so my cats can eat the grass. They love it. I rotate it around with Wheatgrass and Rye too
+Gold Summary: Yay Barley
+Gensim Summary with Stopwords: they love it. i rotate it around with wheatgrass and rye too.
+Cumulative BLEU-1 Score with Stopwords: 0.0983606557377049
+Cumulative BLEU-4 Score with Stopwords: 0.5600223424950026
+Gensim Summary without Stopwords: right mostly sprouting cats eat grass. love. rotate around wheatgrass rye.
+Cumulative BLEU-1 Score without Stopwords: 0.08108108108108107
+Cumulative BLEU-4 Score without Stopwords: 0.5336172773868456
+--
+Review: This is a very healthy dog food. Good for their digestion. Also good for small puppies. My dog eats her required amount at every feeding.
+Gold Summary: Healthy Dog Food
+Gensim Summary with Stopwords: this is a very healthy dog food. also good for small puppies.
+Cumulative BLEU-1 Score with Stopwords: 0.16393442622950818
+Cumulative BLEU-4 Score with Stopwords: 0.6363082311973168
+Gensim Summary without Stopwords: also good small puppies. dog eats required amount every feeding.
+Cumulative BLEU-1 Score without Stopwords: 0.140625
+Cumulative BLEU-4 Score without Stopwords: 0.6123724356957946
+--
+Review: One of my boys needed to lose some weight and the other didn't.  I put this food on the floor for the chubby guy, and the protein-rich, no by-product food up higher where only my skinny boy can jump.  The higher food sits going stale.  They both really go for this food.  And my chubby boy has been losing about an ounce a week.
+Gold Summary: My cats LOVE this "diet" food better than their regular food
+Gensim Summary with Stopwords: and my chubby boy has been losing about an ounce a week.
+Cumulative BLEU-1 Score with Stopwords: 0.2857142857142857
+Cumulative BLEU-4 Score with Stopwords: 0.7311104457090247
+Gensim Summary without Stopwords: chubby boy losing ounce week.
+Cumulative BLEU-1 Score without Stopwords: 0.4482758620689655
+Cumulative BLEU-4 Score without Stopwords: 0.8182506116172393
+--
+Review: My cats have been happily eating Felidae Platinum for more than two years. I just got a new bag and the shape of the food is different. They tried the new food when I first put it in their bowls and now the bowls sit full and the kitties will not touch the food. I've noticed similar reviews related to formula changes in the past. Unfortunately, I now need to find a new food that my cats will eat.
+Gold Summary: My Cats Are Not Fans of the New Food
+Gensim Summary with Stopwords: unfortunately i now need to find a new food that my cats will eat.
+Cumulative BLEU-1 Score with Stopwords: 0.19696969696969696
+Cumulative BLEU-4 Score with Stopwords: 0.6661926765578389
+Gensim Summary without Stopwords: got new bag shape food different. unfortunately need find new food cats eat.
+Cumulative BLEU-1 Score without Stopwords: 0.17105263157894737
+Cumulative BLEU-4 Score without Stopwords: 0.6431058201682329
+--
